@@ -1,0 +1,5 @@
+.js ext for all js files
+make sure node is installed*
+input:node HelloWorld.js
+
+output:Hellow World!

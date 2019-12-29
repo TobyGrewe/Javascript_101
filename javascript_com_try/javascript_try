@@ -1,0 +1,27 @@
+strings
+In JavaScript, when we surround a word with quotes it's called a string, and when we're done with a line of code we finish it with a semicolon.
+
+functions
+JavaScript also has built-in features, called functions. In order to call a function, we simply write its name (this time without quotes) and end it with a set of parentheses. Try calling the alert function as you see below.
+
+string function paramteter
+Well, many functions (like the alert function) can take instructions, which we call parameters. By sending a string into the alert function, we can put text on the pop-up box. Try it!
+
+variables 
+Often when programming we want to store values in containers so we can use them later; these are called variables. Let’s store your name in a variable, or ‘var’ for short, by typing the following:
+var firstName = "toby";
+
+type firstName and you get toby
+
+Numbers
+1 vaule type (strings) but JS has many! Another example of a value type is a number.Just like a function, a number does not get quotations.
+
+Combining Numbers
+we can also do math in JS
+
+14+28;
+
+Combining strings
+JS can also combine strings
+create an alert tat combines your name and a string
+alert(firstName + " is awesome!");

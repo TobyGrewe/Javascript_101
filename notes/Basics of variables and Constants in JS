@@ -1,0 +1,43 @@
+node <name of .jsfile.js>
+
+variables defined by <let>
+constant can't vary variables can
+<let const>
+
+<let name = 'John'>
+
+2.3 = float number not whole number*
+<let score = '100' *a string not a number due to <"">
+let score = 103 * a number
+
+console.log('Hello')
+console.log(name)
+
+input: node variables.js
+output: John
+
+for variable DON'T use <"">
+
+use ; at end of line of code
+
+let bonus ='20'
+
+let totalScore = score + bonus
+
+10020 (100 +20) (strings / not a number due to <"">)\
+
+
+
+STRINGS VS NUMBERS
+
+firstName *camel casing (easier to read) https://en.wikipedia.org/wiki/Camel_case
+
+
+you can only declare a var once
+let firstName = 'john'
+let firstName = 'Jane'
+===error=====
+
+to change firstName = 'Jane'
+do < firstName = 'jane'> (no need to use <let>)
+
